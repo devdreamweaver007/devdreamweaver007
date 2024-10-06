@@ -1,0 +1,51 @@
+# 👋 Hi there, I'm [Your Name]!
+
+🌟 A passionate Flutter developer with 2 years of experience in building beautiful and responsive mobile applications.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: 
+  - Dart 🦄
+  - Java ☕
+  - JavaScript 💻
+  
+- **Frameworks & Libraries**: 
+  - Flutter 📱
+  - Firebase 🔥
+  - Provider & Riverpod 🛠️
+
+- **Tools**:
+  - Visual Studio Code 🖥️
+  - Android Studio 📱
+  - Git & GitHub 🐙
+
+---
+
+
+## 📫 Get in Touch
+
+- **Email**: ahamedhameem2@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ahamed-hameem-30b22b258/
+- **Instagram**: https://www.instagram.com/devdreamweaver/
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🎉 Fun Facts
+
+- I love building UIs that provide a great user experience! 🎨
+- I'm constantly learning new technologies and best practices in mobile development. 📚
+- In my free time, I enjoy contributing to open-source projects and exploring new ideas. 🌍
+
+---
+
+Thanks for stopping by! Feel free to connect or reach out if you'd like to collaborate! 🤝
