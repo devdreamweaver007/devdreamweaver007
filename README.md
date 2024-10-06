@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Hameem!
 
 🌟 A passionate Flutter developer with 2 years of experience in building beautiful and responsive mobile applications.
 
@@ -32,13 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 🎉 Fun Facts
 
